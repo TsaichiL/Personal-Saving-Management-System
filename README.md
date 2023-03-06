@@ -2,10 +2,14 @@
 This personal saving management system is designed to work with N26 bank's monthly balance sheet and provides functions to track income and expenses, categorize spending, and help users create and track savings plans.
 
 ## Introduction
+The development of this personal saving management system was driven by multiple factors. Firstly, the current economic climate, marked by persistent inflation, has made it increasingly challenging for individuals to manage their finances effectively. Secondly, overspending, lack of savings, and debt have become some of the common sources of stress for many people. 
+
+As for the choice to develop a personal saving management system specifically tailored to N26's monthly balance sheet was based on that N26 is a highly popular mobile bank in Europe, making it an accessible and familiar platform for many users. As international students in Europe, N26 has also been a major tool for us. Additionally, the bank's balance sheet provides a comprehensive overview of the user's financial activity, allowing for a more accurate and nuanced analysis of their finances.
+
 This saving management system is used with N26 monthly balance sheet and has several functions:
-1. track the total expense and income of the month
-2. show the user how much they have spent in different spending categories
-3. help user to start a saving plan
+1. Track the total expense and income of the month
+2. Show users how much they have spent in different spending categories
+3. Help users to start a saving plan
 
 ## Usage
 #### A N26 Bank Statement
